@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-generator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMontague29/Flashcards.git"
+  },
+  "author": "Scott Montague",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMontague29/Flashcards/issues"
+  },
+  "homepage": "https://github.com/SMontague29/Flashcards#readme",
+  "dependencies": {
+    "firebase": "^3.7.6",
+    "inquirer": "^3.0.6"
+  }
+}
